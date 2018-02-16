@@ -14,7 +14,7 @@ Define two date/time fields as dimensions. The first dimension is displayed alon
 Define one measure that is used to display both the trend line and the mean line for each seasonal element. For example, sum(Sales).
 
 ### Options
-* Define a calculation conditions
+* Define a calculation condition
 * Personalize the color of the trend and the mean line.
 
 ## Versions
