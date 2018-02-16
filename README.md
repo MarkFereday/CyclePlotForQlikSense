@@ -3,7 +3,7 @@ A cycle plot is an excellent way to clearly visualize changes in seasonal behavi
 
 You can find a **supported version** with more features on the <a href="https://www.vizlib.com/marketplace">**Vizlib Marketplace**</a>.
 
-![Cycle Plot example in Qlik Sense](images/EvlconCyclePlot2.gif)
+![Cycle Plot example in Qlik Sense](images/EvolconCyclePlot2.gif)
 
 ## Settings
 
