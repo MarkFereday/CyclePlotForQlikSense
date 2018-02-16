@@ -1,0 +1,16 @@
+{
+	"name": "Evolcon Cycle Plot - Open Source",
+	"description": "Cycle plots help visualize seasonality.",
+	"icon": "line-chart",
+	"type": "visualization",
+	"version": "1.1.0",
+	"preview" : "EvolconCyclePlot.png",
+	"author": "karl.pover@evolcon.com",
+	"homepage": "http://evolcon.com",
+	"keywords": "qlik-sense, visualization, cycle plot",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
